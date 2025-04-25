@@ -35,7 +35,7 @@ Python library for reading temperature from the DS18B20 1-Wire digital temperatu
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ds18b20-python-lib.git
+   git clone https://github.com/maido-39/ds18b20-python-lib.git
    cd ds18b20-python-lib
    ```
 
