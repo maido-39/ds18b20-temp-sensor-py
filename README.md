@@ -68,8 +68,8 @@ If you run `ds18b20_sensor.py` directly, it will output the temperature in Celsi
 
 ```bash
 $ python3 ds18b20_sensor.py
-현재 온도: 23.56°C
-현재 온도: 23.62°C
+Current Temperature: 23.56°C
+Current Temperature: 23.56°C
 ...
 ```
 
