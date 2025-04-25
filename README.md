@@ -41,7 +41,7 @@ Python library for reading temperature from the DS18B20 1-Wire digital temperatu
 
 3. Run the script directly:
    ```bash
-   python3 ds18b20_sensor.py
+   python3 ds18b20_sensor_lib.py
    ```
 
 ---
@@ -49,7 +49,7 @@ Python library for reading temperature from the DS18B20 1-Wire digital temperatu
 ## 🧪 Example Code
 
 ```python
-from ds18b20_sensor import DS18B20Sensor
+from ds18b20_sensor_lib import DS18B20Sensor
 
 sensor = DS18B20Sensor()
 
@@ -64,7 +64,7 @@ finally:
 
 ## 🔁 CLI Mode
 
-If you run `ds18b20_sensor.py` directly, it will output the temperature in Celsius every second:
+If you run `ds18b20_sensor_lib.py` directly, it will output the temperature in Celsius every second:
 
 ```bash
 $ python3 ds18b20_sensor.py
